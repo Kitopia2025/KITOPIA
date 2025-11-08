@@ -125,7 +125,7 @@
     height: 100%;
     z-index: 1;
 
-    background-image: url('imagenes/patron-japanese.jpg');
+    background-image: url('patron-japanese.jpg');
     background-repeat: repeat; 
     background-size: 400px;
     filter: invert(100%);
@@ -473,8 +473,8 @@ a:hover {
     /* Usar el color primario como fondo para el contraste con el texto */
     
     background-image:
-    url(imagenes/RAMA.png),
-    url(imagenes/arte-digital-hermosas-montanas.jpg);
+    url(RAMA.png),
+    url(arte-digital-hermosas-montanas.jpg);
     background-size:
     800px, /* Tamaño de la RAMA. Ajusta este valor */
     cover;
@@ -1755,4 +1755,5 @@ a:hover {
 .rojo {
   color: #b80000; /* puedes usar el rojo que usa el logo de Kitopia */
   font-weight: bold;
+
 }
